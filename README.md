@@ -21,4 +21,18 @@ Knowing the distances of such a large population of galaxies, will allow us to p
 
 ![](https://raw.githubusercontent.com/steviecurran/quasar-distances/refs/heads/main/desiQSO_x_sdssQSO_trun.csv_desiQSO_x_sdssQSO_trun_kNN.png)
 
+**Approach**
+
+The pipeline combines photometric measurements across multiple wavelengths to estimate redshift using machine-learning models.
+
+Techniques explored include:
+
+- k-Nearest Neighbours
+- Decision trees
+- Random forests
+- Neural networks
+- Feature engineering from spectral energy distributions (SEDs)
+
+These models are trained on galaxies with known spectroscopic redshifts and then applied to much larger photometric samples.
+
 See also *[NASA ADS](https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.2639C/abstract)*,
