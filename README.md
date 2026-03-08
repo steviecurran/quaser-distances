@@ -15,7 +15,9 @@ This project explores data-driven approaches to redshift estimation using multi-
 
 **Why this matters**
 
-Optical spectroscopy is expensive and biased toward brighter galaxies. Photometric measurements can be obtained much deeper and for far larger samples, enabling distance estimates for galaxies that would otherwise remain unusable for cosmological studies. Knowing the distances of these galaxies, will allow us to probe back billion of years, close to the birth of the Universe, and can yield the density of baryonic (normal) matter thus constraining dark matter and energy models. 
+Optical spectroscopy is expensive and biased toward brighter galaxies. Photometric measurements can be obtained much deeper and for far larger samples, enabling distance estimates for galaxies that would otherwise remain unusable for cosmological studies. <br>
+
+Knowing the distances of such a large population of galaxies, will allow us to probe back billion of years, close to the birth of the Universe, and can yield the density of baryonic (normal) matter thus constraining dark matter and energy models. 
 
 ![](https://raw.githubusercontent.com/steviecurran/quasar-distances/refs/heads/main/desiQSO_x_sdssQSO_trun.csv_desiQSO_x_sdssQSO_trun_kNN.png)
 
