@@ -1,7 +1,7 @@
 
 ### Using Machine to Estimatie Galaxy Distances from Multi-Wavelength Data ###
 
-Next-generation radio surveys with the <i>Square Kilometre Array<i>, the world's largest scientficic instrument, will detect millions of galaxies hosting supermassive black holes. Extracting cosmological information from these surveys requires estimating the distance (redshift) of each galaxy, but traditional optical spectroscopy cannot scale to datasets of this size.
+Next-generation radio surveys with the *Square Kilometre Array*, the world's largest scientficic instrument, will detect millions of galaxies hosting supermassive black holes. Extracting cosmological information from these surveys requires estimating the distance (redshift) of each galaxy, but traditional optical spectroscopy cannot scale to datasets of this size.
 
 This project explores data-driven approaches to redshift estimation using multi-wavelength photometry and spectral energy distributions (SEDs).
 
