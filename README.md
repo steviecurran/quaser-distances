@@ -1,2 +1,22 @@
 # quaser-distances
-Using Machine  Learning to Estimatie Galaxy Distances from Multi-Wavelength Data
+#### Using Machine to Estimatie Galaxy Distances from Multi-Wavelength Data #### 
+
+Next-generation radio surveys with the Square Kilometre Array, the world's largest scientficia instrument, will detect millions of galaxies hosting supermassive black holes. Extracting cosmological information from these surveys requires estimating the distance (redshift) of each galaxy, but traditional optical spectroscopy cannot scale to datasets of this size.
+
+This project explores data-driven approaches to redshift estimation using multi-wavelength photometry and spectral energy distributions (SEDs).
+
+**Key ideas**
+
+-  Combine radio detections with optical, UV, and near-infrared photometry
+
+-  Use machine-learning approaches to infer galaxy distances when spectroscopy is unavailable
+
+-  Scale to millions of objects expected from upcoming Square Kilometre Array surveys
+
+**Why this matters**
+
+Optical spectroscopy is expensive and biased toward brighter galaxies. Photometric measurements can be obtained much deeper and for far larger samples, enabling distance estimates for galaxies that would otherwise remain unusable for cosmological studies.
+
+![](https://raw.githubusercontent.com/steviecurran/quasar-distances/refs/heads/main/desiQSO_x_sdssQSO_trun.csv_desiQSO_x_sdssQSO_trun_kNN.png)
+
+See also *[NASA ADS](https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.2639C/abstract)*,
