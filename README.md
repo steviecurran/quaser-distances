@@ -3,7 +3,7 @@
 
 Next-generation radio surveys with the *Square Kilometre Array*, the world's largest scientficic instrument, will detect millions of galaxies which host supermassive black holes. Extracting cosmological information from these surveys requires estimating the distance (redshift) of each galaxy, but traditional optical spectroscopy cannot scale to datasets of this size.
 
-This project explores data-driven approaches to redshift estimation using multi-wavelength photometry and spectral energy distributions (SEDs).
+This project explores data-driven approaches to redshift estimation using multi-wavelength photometry and spectral energy distributions.
 
 **Key ideas**
 
@@ -31,7 +31,7 @@ Techniques explored include:
 - Decision trees
 - Random forests
 - Neural networks
-- Feature engineering from spectral energy distributions (SEDs)
+- Feature engineering from spectral energy distributions
 
 These models are trained on galaxies with known spectroscopic redshifts and then applied to much larger photometric samples.
 
